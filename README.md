@@ -7,7 +7,7 @@
 ## Examples
 
 #### Typical Use Case
-
+ads
 ```yaml
 - name: Checkout 
   uses: actions/checkout@v2 # Required to mount the Github Workspace to a volume 
